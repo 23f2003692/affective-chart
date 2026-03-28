@@ -1,17 +1,7 @@
 {
-  "prompt": "A deeply emotional data visualization showing how 1% of the world's population owns 50% of global wealth. No bar charts, no pie charts, no axes, no labels, no legends. Show this as a vast dark ocean with a tiny blazing golden island — the island represents the 1%, the endless dark water represents the 99%. Photorealistic, magazine cover quality, single frame, cinematic lighting.",
+  "prompt": "A deeply emotional data visualization showing how 1% of the world's population owns 50% of global wealth. No bar charts, no pie charts, no axes, no labels, no legends. A vast dark ocean with a tiny blazing golden island. The island represents the 1%, the endless dark water represents the 99%. Photorealistic, magazine cover quality, single frame, cinematic lighting.",
   "model": "DALL-E 3",
   "dataset_name": "Credit Suisse Global Wealth Report 2023",
   "dataset_url": "https://www.credit-suisse.com/about-us/en/reports-research/global-wealth-report.html",
   "insight": "The wealthiest 1% of humans own more than half of all global wealth, leaving 99% to share the remainder."
 }
-```
-
-**Step 4:** Commit changes click kar
-
-**Step 5:** File pe click kar → **"Raw"** button → URL copy kar
-
-URLs kuch aisi dikhegi:
-```
-https://raw.githubusercontent.com/TERA_USERNAME/affective-chart/main/image.png
-https://raw.githubusercontent.com/TERA_USERNAME/affective-chart/main/submission.json
